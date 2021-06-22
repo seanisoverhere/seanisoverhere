@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Sean 👋
 
+I am a front-end enthusiast and I enjoy learning new technologies.
 
 ![](https://komarev.com/ghpvc/?username=seanisoverhere&color=orange)
 
