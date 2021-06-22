@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=seanisoverhere&color=orange)
 
+![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seanisoverhere&theme=nightowl&show_icons=true)
+
 
 <!--
 **seanisoverhere/seanisoverhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
