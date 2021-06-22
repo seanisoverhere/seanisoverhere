@@ -1,4 +1,4 @@
-### Hi there! I'm Sean 👋
+### Hi there! I'm Sean <img src="https://raw.githubusercontent.com/seanisoverhere/seanisoverhere/main/assets/Hi.gif" width="29px">
 
 I am a front-end enthusiast and I enjoy learning new technologies.
 
