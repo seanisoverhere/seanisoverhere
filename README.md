@@ -1,6 +1,6 @@
 ### Hi there! I'm Sean <img src="https://raw.githubusercontent.com/seanisoverhere/seanisoverhere/main/assets/Hi.gif" width="29px">
 
-I am a front-end enthusiast and I enjoy learning new technologies.
+Front-end enthusiast and evidently a Javascript fanboy :-)
 
 ![](https://komarev.com/ghpvc/?username=seanisoverhere&color=orange)
 
