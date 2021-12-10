@@ -9,8 +9,7 @@ Technology Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)&ensp;![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js)&ensp;![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-34495E?style=flat-square&logo=Nuxt.js)&ensp;
 
 ![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seanisoverhere&theme=ayu-mirage&show_icons=true&count_private=true)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanisoverhere&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seanisoverhere/seanisoverhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
