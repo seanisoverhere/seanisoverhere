@@ -1,4 +1,4 @@
-### Hello! I'm Sean <img src="https://raw.githubusercontent.com/seanisoverhere/seanisoverhere/main/assets/Hi.gif" width="29px">
+### Hello! I'm Sean <img src="https://raw.githubusercontent.com/seanisoverhere/seanisoverhere/main/assets/Hi.gif" height="25">
 
 Front-end enthusiast and evidently a Typescript fanboy :-)
 
